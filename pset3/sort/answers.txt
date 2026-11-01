@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: produced good performance for sorted data which matches with the better lower bound.
+
+sort2 uses: merge
+
+How do you know?: produced consistent good performance across all 3 data.
+
+sort3 uses: selection
+
+How do you know?: produced consistent medium performance across all 3 data.

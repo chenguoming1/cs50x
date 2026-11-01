@@ -1,0 +1,24 @@
+.downloads/
+.setup/
+__pycache__/
+.venv/
+*.pyc
+*.o
+*.out
+core
+pset4/recover/*.jpg
+pset4/filter/less/out.bmp
+pset4/filter/more/out.bmp
+
+# Locally compiled programs
+pset5/inheritance/inheritance
+pset5/speller/dictionary
+pset5/speller/speller
+
+# Downloadable course database (larger than GitHub's file limit)
+pset7/movies/movies.db
+
+# Local credentials
+.env
+.env.*
+!.env.example

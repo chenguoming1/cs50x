@@ -1,0 +1,16 @@
+{
+    "gitdoc.enabled": true,
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "other": "on",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.parameterHints.enabled": true,
+    "editor.hover.enabled": "on",
+    "html.suggest.html5": true,
+    "js/ts.suggest.enabled": true
+}

@@ -1,0 +1,25 @@
+{
+  "username": "chenguoming1",
+  "course": "CS50x 2026",
+  "source": "https://cs50.me/cs50x",
+  "observed_on": "2026-10-25",
+  "weeks_complete": 5,
+  "weeks_total": 11,
+  "passed": [
+    "cs50/problems/2025/x/scratch",
+    "cs50/problems/2025/x/me",
+    "cs50/problems/2025/x/mario/more",
+    "cs50/problems/2025/x/cash",
+    "cs50/problems/2025/x/scrabble",
+    "cs50/problems/2025/x/readability",
+    "cs50/problems/2025/x/substitution",
+    "cs50/problems/2025/x/sort",
+    "cs50/problems/2025/x/plurality",
+    "cs50/problems/2025/x/tideman",
+    "cs50/problems/2026/x/volume",
+    "cs50/problems/2026/x/filter/more",
+    "cs50/problems/2026/x/recover",
+    "cs50/problems/2026/x/inheritance"
+  ],
+  "evidence": "Each listed submission had a passing-grade icon and title in the signed-in gradebook. Remaining required assignments showed No submission."
+}
