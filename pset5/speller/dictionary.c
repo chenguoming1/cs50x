@@ -85,7 +85,6 @@ bool addwordtodict(const char word[]) {
     node *currentNode = table[h];
     if (currentNode == NULL) {
         table[h] = newNode;
-
         return true;
     }
 
@@ -102,6 +101,7 @@ bool addwordtodict(const char word[]) {
             newNode->next = currentNode;
 
             if (prevNode != NULL) {
+
                 prevNode->next = newNode;
                 return true;
             }
@@ -143,10 +143,14 @@ bool load(const char *dictionary)
             chIndex = 0;
             char *lWord = strToLower(word);
             if (lWord == NULL) {
+                unload();
+                fclose(f);
                 return false;
             }
             if (!addwordtodict(lWord)) {
+                fclose(f);
                 free(lWord);
+                unload();
                 return false;
             }else {
                 free(lWord);
@@ -158,7 +162,7 @@ bool load(const char *dictionary)
 
     fclose(f);
 
-    return false;
+    return true;
 }
 
 // Returns number of words in dictionary if loaded, else 0 if not yet loaded
