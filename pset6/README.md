@@ -5,6 +5,10 @@ This guide adapts the course workflow to your local container. The linked course
 pages contain the complete specifications, demonstrations, and test examples.
 Instructions checked on 25 October 2026.
 
+Keep the [Python cheat sheet](../cheatsheets/PYTHON.md) and
+[strings and collections reference](../cheatsheets/PYTHON-COLLECTIONS.md)
+nearby while working through these exercises.
+
 ## Open the container terminal
 
 1. Open this workspace in VS Code. Its title should include

@@ -74,6 +74,8 @@ automatically when you edit code, run check50, or rebuild the local page.
 
 Keep the [C cheat sheet](cheatsheets/C.md) nearby for syntax, library functions,
 pointers, memory, and compile/debug commands.
+For Problem Set 6, use the [Python cheat sheet](cheatsheets/PYTHON.md) and
+[strings and collections reference](cheatsheets/PYTHON-COLLECTIONS.md).
 
 Your [imported solutions](SOLUTIONS.md) lists the six submissions restored from
 your downloaded ZIPs, their course years, and backups of the original starters.
