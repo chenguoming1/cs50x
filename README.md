@@ -14,6 +14,9 @@ the compiler and course tools run inside the container.
 The Linux workspace is `/workspaces/cs50x`. The first VS Code connection may
 download its server and extensions; the course image is already downloaded.
 
+The Docker container is named `cs50x`. If you already created a container before
+this name was configured, use **Dev Containers: Rebuild Container** to apply it.
+
 VS Code's user setting `dev.containers.mountWaylandSocket` is disabled on this
 computer. Its automatic WSL graphics socket mount caused Docker to fail with
 `distro-services/ubuntu.sock: no such file or directory`. CS50x uses the terminal

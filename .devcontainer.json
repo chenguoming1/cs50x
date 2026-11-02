@@ -258,6 +258,7 @@
     8787
   ],
   "image": "ghcr.io/cs50/codespace:8747653249b7979caf03f007e1a1fc4215ab4040",
+  "runArgs": ["--name", "cs50x"],
   "postCreateCommand": "bash .devcontainer/setup.sh",
   "remoteEnv": {
     "CS50_GH_USER": "${localEnv:GITHUB_USER}",
