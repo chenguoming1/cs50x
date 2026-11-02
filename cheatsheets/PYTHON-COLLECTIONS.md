@@ -302,4 +302,5 @@ These conventions follow the [Python CSV documentation](https://docs.python.org/
 | Join strings | `separator.join(parts)` |
 
 See also the [Python data structures tutorial](https://docs.python.org/3.13/tutorial/datastructures.html),
-[Python basics](PYTHON.md), and [all cheat sheets](README.md).
+[Python basics](PYTHON.md), [regular expressions](PYTHON-REGEX.md), and
+[all cheat sheets](README.md).

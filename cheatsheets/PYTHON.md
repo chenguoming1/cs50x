@@ -335,5 +335,6 @@ that require exact output.
 
 - [Python 3.13 tutorial: introduction](https://docs.python.org/3.13/tutorial/introduction.html)
 - [Strings and collections cheat sheet](PYTHON-COLLECTIONS.md)
+- [Regular expressions cheat sheet](PYTHON-REGEX.md)
 - [Problem Set 6 workspace guide](../pset6/README.md)
 - [All cheat sheets](README.md)

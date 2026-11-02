@@ -8,5 +8,7 @@
   types, input/output, arithmetic, conditions, loops, functions, and debugging.
 - [Python strings and collections](PYTHON-COLLECTIONS.md): slicing, lists,
   dictionaries, sets, tuples, copying, comprehensions, text files, and CSV.
+- [Python regular expressions](PYTHON-REGEX.md): patterns, matching, captures,
+  replacements, flags, lookarounds, and common mistakes with the `re` module.
 
 [Back to the workspace guide](../README.md)
